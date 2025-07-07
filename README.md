@@ -105,10 +105,8 @@ python main.py --image PATH/TO/IMAGE --gamma 0.8 --save output.png
 
 ## 🖋️ Author
 
-**Your Name** – [@your‑github](https://github.com/your‑github)
+**mcansumert** – [@your‑github]([https://github.com/your‑github](https://github.com/mcansumert))
 
 Feel free to open issues or pull requests 🛠️
 
-## ⚖️ License
 
-MIT License – see [`LICENSE`](LICENSE) for details.
